@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexanderMBP
 - 👀 I’m interested in IA engineering 
-- 🌱 I’m currently learning Back-end development
+- 🌱 I’m currently learning Back-end development in CoderHouse
 - 💞️ I’m looking to collaborate as a Full Stack Developer
 - 📫 Reach me at Alexander@iCloud.com
 
